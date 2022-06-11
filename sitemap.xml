@@ -102,36 +102,41 @@
   
   <url>
     <loc>https://shirleyshih.github.io/tags/css/</loc>
+    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shirleyshih.github.io/tags/html/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shirleyshih.github.io/tags/index/</loc>
+    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shirleyshih.github.io/tags/jquey/</loc>
+    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shirleyshih.github.io/categories/project/</loc>
+    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://shirleyshih.github.io/1/01/page-harrypotter/</loc>
+    <loc>https://shirleyshih.github.io/2015/06/page-harrypotter/</loc>
+    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shirleyshih.github.io/tags/index/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
