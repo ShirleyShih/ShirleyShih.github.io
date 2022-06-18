@@ -6,13 +6,22 @@
     <description>Recent content in Categories on ShirleyFish 雪荔魚</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0 CN</copyright>
-    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://shirleyshih.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>學習心得 | SAS Advanced Programming 2022/5/16</title>
+      <title>學習筆記 | How to create a personal page</title>
+      <link>https://shirleyshih.github.io/2022/06/page-mysite/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shirleyshih.github.io/2022/06/page-mysite/</guid>
+      <description>Why github with hugo, rather than hexo or jekyll? 这两年经历了hexo到jekyll再到hugo，推荐hugo - 知乎 (zhihu.com) Re: [討論] 有人用過雙向筆記 obsidian嗎? - 看板 Soft_Job</description>
+    </item>
+    
+    <item>
+      <title>學習筆記 | SAS Advanced Programming 2022/5/16</title>
       <link>https://shirleyshih.github.io/2022/05/sasadvanced/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
       
@@ -30,7 +39,7 @@
     </item>
     
     <item>
-      <title>學習心得 | 台大計資中心 Python程式設計入門</title>
+      <title>學習筆記 | 台大計資中心 Python程式設計入門</title>
       <link>https://shirleyshih.github.io/2021/08/python_class/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
@@ -53,7 +62,7 @@
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>https://shirleyshih.github.io/2015/06/page-harrypotter/</guid>
-      <description>About Operating System: Windows 7 Date: Feb 2015 - Jun 2015 Language: HTML, CSS Link: https://shirleyshih.github.io/2015_HTML/ Description Briefly introduce Harry Potter series, including the author, books and the main actors/actress in the films. Overall design： 跑馬燈&amp;quot;Welcome to the Magical World of Harry Potter!</description>
+      <description>This website briefly introduces Harry Potter series, including the author, books and the main actors/actress in the films. About Operating System: Windows 7 Date: Feb 2015 - Jun 2015 Language: HTML, CSS Link: Harry Potter Description Overall design： 跑馬燈&amp;quot;Welcome to the Magical World of Harry Pott</description>
     </item>
     
   </channel>

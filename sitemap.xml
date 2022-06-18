@@ -4,55 +4,90 @@
   
   <url>
     <loc>https://shirleyshih.github.io/categories/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shirleyshih.github.io/tags/git/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shirleyshih.github.io/tags/github/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shirleyshih.github.io/tags/html/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shirleyshih.github.io/tags/hugo/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shirleyshih.github.io/posts/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shirleyshih.github.io/tags/sas/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shirleyshih.github.io/series/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shirleyshih.github.io/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shirleyshih.github.io/tags/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shirleyshih.github.io/series/themes-guide/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://shirleyshih.github.io/categories/%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97/</loc>
+    <loc>https://shirleyshih.github.io/categories/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shirleyshih.github.io/2022/06/page-mysite/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shirleyshih.github.io/tags/sas/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -108,13 +143,6 @@
   </url>
   
   <url>
-    <loc>https://shirleyshih.github.io/tags/html/</loc>
-    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://shirleyshih.github.io/tags/jquey/</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -122,14 +150,14 @@
   </url>
   
   <url>
-    <loc>https://shirleyshih.github.io/categories/project/</loc>
+    <loc>https://shirleyshih.github.io/2015/06/page-harrypotter/</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://shirleyshih.github.io/2015/06/page-harrypotter/</loc>
+    <loc>https://shirleyshih.github.io/categories/projects/</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
