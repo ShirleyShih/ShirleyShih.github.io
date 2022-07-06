@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shirleyshih.github.io/about/</loc>
+    <lastmod>2022-06-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://shirleyshih.github.io/categories/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -151,49 +158,7 @@
   
   <url>
     <loc>https://shirleyshih.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shirleyshih.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shirleyshih.github.io/2019/03/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shirleyshih.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shirleyshih.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shirleyshih.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shirleyshih.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
