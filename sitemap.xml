@@ -136,27 +136,6 @@
   </url>
   
   <url>
-    <loc>https://shirleyshih.github.io/tags/graphicdesign/</loc>
-    <lastmod>2021-08-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shirleyshih.github.io/2021/08/graphic-design/</loc>
-    <lastmod>2021-08-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shirleyshih.github.io/categories/projects/</loc>
-    <lastmod>2021-08-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://shirleyshih.github.io/tags/google-sheet/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -165,6 +144,13 @@
   
   <url>
     <loc>https://shirleyshih.github.io/2021/03/sheet-inventory/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shirleyshih.github.io/categories/projects/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -187,6 +173,20 @@
   <url>
     <loc>https://shirleyshih.github.io/2015/06/page-harrypotter/</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shirleyshih.github.io/tags/graphicdesign/</loc>
+    <lastmod>2015-06-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shirleyshih.github.io/2015/06/graphic-design/</loc>
+    <lastmod>2015-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
